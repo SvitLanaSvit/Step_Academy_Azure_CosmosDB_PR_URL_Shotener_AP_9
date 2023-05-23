@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR_URL_Shotener_AP_9", "PR_URL_Shotener_AP_9\PR_URL_Shotener_AP_9.csproj", "{09EA8C25-5A94-41A0-B0D7-5C59E74FAFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09EA8C25-5A94-41A0-B0D7-5C59E74FAFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EA8C25-5A94-41A0-B0D7-5C59E74FAFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EA8C25-5A94-41A0-B0D7-5C59E74FAFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EA8C25-5A94-41A0-B0D7-5C59E74FAFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAEAD89-089B-4710-A196-9BB7DDCEA9CE}
+	EndGlobalSection
+EndGlobal
